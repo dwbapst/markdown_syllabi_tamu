@@ -1,48 +1,9 @@
 # Syllabus
 
 <!-- 
-This is a syllabus template in Markdown that meets the minimum syllabus requirements made by the Texas A&M Faculty Senate beginning in Fall 2020. 
-The Markdown format (a .md file, as denoted by the file name) used in this document was chosen to maximize conversion to HTML or PDF via Pandoc. 
-This Markdown-based syllabus template is based on the original template written for use in Microsoft Word. The conversion to Markdown was done by David Bapst in the College of Geosciences.
+See the readme for the syllabus template repository for instructions on using the following read-me template.
 
-The accessibility requirements for syllabi includes a single level-1 heading (i.e., “Syllabus”) with three level-2 headings (i.e., “Course Information,” “University Policies,” and “College and Department Policies”). 
-The “Course Information” and “University Policies” sections have subsections identified with level-3 headers (and occassionaly their own subsections with level-4 headers). 
-
-To use this syllabus template, faculty should edit the content in the “Course Information” sections to include the appropriate details for the course, and review the text included in the “University Policies” section. 
-The TAMU Faculty Senate established the wording of the text in this section. Faculty associated with the main campus in College Station should use the Academic Integrity, Americans with Disabilities Act, and Title IX statements as written. 
-Faculty not on the main campus should use the appropriate language and location at their site for the Academic Integrity, Americans with Disabilities Act, and Title IX statements. 
-
-NOTE: Faculty members should not change the written statements. A faculty member may add separate paragraphs if additional information is needed. Faculty should also add subsections for college level and/or department level policies as appropriate for their respective units. 
-Faculty should use Heading level-3 (in Markdown, denoted by a line beginning with three hash symbols: ###) for any new headings added under the College and Department Policies section. 
-
-The template can then be converted to HTML using Pandoc, which can be obtained here: https://pandoc.org/
-
-To use this syllabus template for creating a PDF, you must also have a LaTeX engine installed and in your system's $PATH. If you are on a Linux machine, you probably have such, or can easily obtain such from a software package repository. 
-This is somewhat more difficult on macOS or Windows, although if you have RStudio installed and often convert Rmarkdown files to PDF, you *may* already have the requisite software installed. 
-To convert this file to a standard LaTeX-style PDF, all you need to do in the shell is (assuming your working directory contains the file in question):
-
-# converting to PDF
-pandoc syllabus_markdown.md -o test_syllabus.pdf 
-
-# converting to HTML
-pandoc syllabus_markdown.md -o test_syllabus.html
-
-Both of these commands will make a PDF and an HTML version of your syllabus that meet Faculty Senate requirements.
-
-# What is this stuff I'm reading?
-
-The text you are reading is plain-text comments written within a commented out block the start of which is designated by <!-- and the end of which is designated by two dashes and an end colon >. 
-(I can't write the exact sequence here or else the comments block will end.). 
-This text does not appear when the Markdown file is converted to HTML or PDF. 
-Because commented text is ignored, you can delete these lines, leave them be, or even add additional comments throughout the document for your benefit.
-
-The end of this document has a YAML header designated by a line beginning with three repeated dashes (---) and ended by the same, and multiple YAML headers are allowed. 
-This can be used to pass commands to pandoc that control the format of the resulting files. Within YAML blocks, comments are designated by lines that begin with hashes (#). 
-Note that while pandoc will not render anything in a YAML header, some markdown previews in, for example, ghostwriter will render the YAML header.
-
-# Page Breaks
-
-To create page break in the markdown for PDFs, just have a line that only contains the latex command "\newpage" . This command will not appear in HTML output when generated using Pandoc.
+This template last update 01/20/24 by David W Bapst.
 -->
 
 ## Course Information
@@ -73,6 +34,8 @@ Office Hours are held in-person in my office, as well as online -- please send m
 
 <!--
 
+Example office hours table in markdown
+
 |                     |                          |
 | ------------------- | -------------------------|
 | Instructor          | David Bapst              |
@@ -81,7 +44,6 @@ Office Hours are held in-person in my office, as well as online -- please send m
 | Online Office Hours | Tue,Thr:  3:40 - 4:30 PM |
 |                     | Mon,Wed: 10:00 -11:00 AM |
 
-#Name: Christina Belanger (Email: christina.belanger@tamu.edu)
 -->
 
 ### Course Description
@@ -122,11 +84,11 @@ None, but the course is not available to students who have taken GEOL 307, the c
 
 Students in Dinosaur World will learn to: 
 
-   1.   Describe how the scientific method has led to our current understanding of dinosaurs 
+   1.   Describe how the scientific method has led to our current understanding of dinosaurs.
    
-   2.   Communicate the theory of natural selection to non-scientists, 
+   2.   Communicate the theory of natural selection to non-scientists.
 
-   3.   Describe the paleogeography and paleoclimate of the Mesozoic 
+   3.   Describe the paleogeography and paleoclimate of the Mesozoic.
    
    4.   Recognize major dinosaur groups and describe current hypotheses concerning their evolution and ecology.
 
@@ -247,7 +209,7 @@ The late work policy should define what constitutes late work (e.g., submitting 
 |              |             | From Death to Fosilization to Discovery                     | 
 |              |             |                                                             |
 |              |             | *Bone Detectives Mini-Assignment*                           | 
-|              |             | Lab 1: Fossil Preservation and Sedimentary Environments     |  
+|              |             | Lab 1: Fossil Preservation & Sedimentary Environments     |  
 |              |             |                                                |   
 | Week 2       | Jan  22-26  | Time in Geology                                | 
 |              |             | Continents and Biogeography                    |
@@ -515,6 +477,10 @@ Texas A&M University is committed to providing equitable access to learning oppo
 Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit [disability.tamu.edu](https://disability.tamu.edu/).
 
 <!--
+# NOTE: Faculty associated with the main campus in College Station should use this Title IX and Statement on Limits of Liability. Faculty not on the main campus should use the appropriate language and location at their site.
+-->
+
+## Campus Policies
 
 ### Statement on the Family Educational Rights and Privacy Act (FERPA)
 

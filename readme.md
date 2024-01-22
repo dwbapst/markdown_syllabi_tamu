@@ -26,7 +26,7 @@ The template can then be converted to HTML using Pandoc -- open-source software 
 To use this syllabus template for creating a PDF, you must also have a LaTeX engine installed (and in your system's $PATH, if you are on a Windows machine). If you are on a Linux machine, you likely already have such, or can easily obtain such from a friendly local software package repository. This is somewhat more difficult on macOS or Windows, although if you have RStudio installed and often convert RMarkdown files to PDF, you *probably* already have the requisite software installed, such as a TinyTEX distribution. 
 
 
-To convert this file to a standard LaTeX-style PDF, all you need to do in the shell is (assuming your working directory contains the file in question):
+To convert this file to a standard LaTeX-style PDF, all you need to do in the shell is the following commands, assuming your working directory contains the file in question. In this example, the file is named 'test_syllabus.md'. To change the type of file output, just change the ending of the filename for the output (following `-o` flag).
 
 ```
 # example of converting to PDF
@@ -36,7 +36,15 @@ pandoc syllabus_Markdown.md -o test_syllabus.pdf
 pandoc syllabus_Markdown.md -o test_syllabus.html
 ```
 
-Both of these commands will make a PDF and an HTML version of your syllabus that meet Faculty Senate requirements. You can also output many other types of files, including Word files.
+Both of these commands will make a PDF and an HTML version of your syllabus that meet Faculty Senate requirements. 
+
+You can also output many other types of files, including Word files. The product can be unpredictable, though -- blame Micro$oft not Pandoc and Markdown, though.
+
+```
+# example converting to DOCX format
+pandoc syllabus_Markdown.md -o test_syllabus.html
+```
+
 
 # Formatting in Markdown
 
@@ -74,10 +82,7 @@ You may often want to leave behind comments that are useful to those editting fu
 
 Markdown's use of formatting has been loosely defined for a while and wasn't part of its original definition, but Pandoc has settled on an option, at least. Code that is between two specific sequences of characters is 
 
-The text you are reading is plain-text comments written within a commented out block the start of which is designated by a left-ward carat, followed by an exclamation point and two horizontal dashes (`<!--`). The end of which is designated by two dashes and an end colon > (). 
-(I can't write the exact sequence here or else the comments block will end.). 
-This text does not appear when the Markdown file is converted to HTML or PDF. 
-Because commented text is ignored, you can delete these lines, leave them be, or even add additional comments throughout the document for your benefit.
+The text you are reading is plain-text comments written within a commented out block the start of which is designated by a left-ward carat, followed by an exclamation point and two horizontal dashes (`<!--`). The end of which is designated by two dashes and a right-ward carat > (`-->`). The comment text between these designators does not appear when the Markdown file is converted to HTML or PDF.
 
 ## YAML Headers
 
@@ -86,4 +91,5 @@ The end of the syllabus template has a block which we call a 'YAML header'. YAML
 YAML headers, so-called because they are usually at the top (or head) of Markdown documents, can actually be located anywhere in a Markdown document, and multiple YAML headers are allowed by most Markdown interpreters. The start of a YAML header is designated by three horizontal dashes (`---`), with specific metadata like title and layout indicated as lines within the YAML header/block. Within YAML blocks, comments are designated by lines that begin with hashes (#). 
 
 Note that while pandoc will not render anything in a YAML header, some Markdown previews will render the YAML header, such as the renderer Ghostwriter.
+
 

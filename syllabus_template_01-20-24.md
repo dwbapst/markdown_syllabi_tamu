@@ -8,33 +8,30 @@ This template last update 01/20/24 by David W Bapst.
 
 ## Course Information
 
-Course Number: GEOL 651
+Course Number: 
 
-Course Title:  Paleoecological Community Analysis
+Course Title:  
 
-Time:          Tues/Thurs 2:20 PM - 3:35 PM
+Time:          
 
-Location:      Halbouty 174
+Location:      
 
-Credit Hours:  3 CR
+Credit Hours:  
 
 ### Instructor Details
 
-Name:          David Bapst
+Name:          
 
-Office:        Halbouty 169
+Office:        
 
-Email:         <dwbapst@tamu.edu>
+Email:         
 
 Office Hours:  
- 
- - Tues/Thurs:  9:30-10:30 AM, 3:40-4:30 PM  
 
-Office Hours are held in-person in my office, as well as online -- please send me an email or a message via the Canvas Learning Management System so I can send you a Zoom link. If these times do not work for you, then please contact me and we will work out alternative times for use to chat.
 
 ### Course Description
 
-Quantitative analysis of multivariate paleoecological community data; measurement of diversity; cluster analysis; gradient analysis by standard and canonical ordination techniques.
+Any?
 
 <!--
 # Provide a course description that closely follows the catalog description for the course.
@@ -42,7 +39,7 @@ Quantitative analysis of multivariate paleoecological community data; measuremen
 
 ### Course Prerequisites
 
-A basic course in statistics or approval of instructor. (Graduate students are routinely approved.)
+Any?
 
 <!--
 # Include a list of course prerequisites (must match Catalog). If no prerequisites, state “None.”
@@ -50,7 +47,7 @@ A basic course in statistics or approval of instructor. (Graduate students are r
 
 ### Special Course Designation
 
-None.
+Any?
 
 <!--
  Specify if the course has one (or more) of the following special course designations: core curriculum (CORE), international and cultural diversity (ICD), cultural discourse (CD), writing intensive (W), communication intensive (C), cross-listed, or stacked.
@@ -60,25 +57,11 @@ None.
 
 ### Course Learning Outcomes
 
-Graduate students who complete this course should be able to:
+Students who complete this course should be able to:
 
- * Calculate common ecological measurements in R.
- 
- * Apply multivariate statistical techniques to their own research work.
+ * Learning Outcomes Should
 
- * Intuit potential caveats and artifacts in multivariate analyses, such as ordinations and cluster analyses.
-
- * Interpret and critically evaluate another person’s analysis of multivariate data sets of ecological or environmental variables
-
- * Identify appropriate methods for visualizing and summarizing multivariate structure.
-
- * Use classification analyses to discriminate and test groups within datasets.
-
- * Troubleshoot error messages and other problems with their code.
-
- * Teach themselves an unfamiliar statistical test to apply to their own data.
-
- * Devise novel analytical approaches when necessary, using statistical theory, simulations, etc.
+ * Listed Here
 
 <!--
 # List one or more learning outcomes for the course.
@@ -88,25 +71,7 @@ Graduate students who complete this course should be able to:
 
 ### Textbook and/or Resource Materials
 
-Students need access to their own computer, on which they should have the R interpreter (install from CRAN: https://cran.r-project.org/), the integrated development environment (IDE) Rstudio (install from the Rstudio website, https://www.rstudio.com/products/rstudio/download/#download), and a spreadsheet program (such as Microsoft Excel). Both R and RStudio are available for free, and LibreOffice Calc is a free spreadsheet program. 
-
-No textbooks are required, however you may find the following volumes useful in your studies, a :
-
-* **Borcard et al., 2011.** Numerical Ecology with R. Springer. 306 pp.
-
-* **Crawley, M.J., 2013.** The R Book. John Wiley & Sons, West Sussex, 1051 p.
-
-* **Hammer and Harper, 2006.** Paleontological Data Analysis. Wiley-Blackwell. 351 p.
-
-* **Legendre and Legendre, 2012.** Numerical Ecology, 3rd edition. Elsevier. 1006 pp. *(There are many reprints of this volume - older versions are also good!)*
-
-* **Patzkowsky and Holland, 2012.** Stratigraphic Paleobiology: Understanding the Distribution of Fossil Taxa in Time and Space. University of Chicago Press. 256 pp.
-
-* **Sneath and Sokal, 1973.** Numerical Taxonomy: Principles and Practice of Numerical Classification. W H Freeman and Co. 588 pp.
-
-* **Sokal and Rohlf, xxxx.** Biometry: The Principles and Practice of Statistics in Biological Research. *(Newest version is 2011. 1994 edition is also good.)*
-
-* **Zar, 2009.** Biostatical Analyses, 5th edition. Pearson. 960 pp.
+What resources do the students need to have or be able to access?
 
 <!--
 Specify the textbook and other resource materials that are required, recommended, and/or optional for the course. If no textbook or other resource materials, state “None.”
@@ -118,82 +83,39 @@ The syllabus should not promote any one vendor of course materials to the studen
 
 Your final letter grade will be based on the final percentage grade for the course:
 
+
+<!--
+Here is just my example grade percentage table. Write your own!
+
 |        |  
-| -----  |  --------
+| -----  | ----------------
 | **A**  | 90-100%
 | **B**  | 80-89% 
 | **C**  | 70-79%
 | **D**  | 60-69%
 | **F**  | Less than 60%
 
+
+Note that my Markdown tables look much more neat than they have to look for them to look nice when formatted.
+
+-->
+
 Your final percentage for the course will be based on:
 
-|                                                |     
-| ---------------------------------------------- | ----
-| Project Paper                                  | 40%
-| Preliminary Drafts & Data Set                  | 15%
-| Project-Associated Papers                      | 10%
-| In Class Presentations                         | 10%
-| Homework Assignments                           | 25%
+<!--
+
+An example grade breakdown table.
+
+|                               |     
+| ----------------------------- | ----
+| Some Assignments              | 40%
+| Paper 1                       | 15%
+| Other Assignments             | 10%
+| In Class Presentations        | 10%
+| Homework Assignments          | 25%
 
 
-Grades in this class will be based on a series of individual homework assignments, a final project with associated assignments, including in-class presentations and a final paper. 
-
-#### Term Project, Drafts and Final Project Paper
-
-This class requires a project-based term paper, with students proposing a project focused on research question of their own selection from within the earth and environmental sciences. Students are required to locate and obtain an appropriate dataset – perhaps from a publicly-available source, such as supplemental material for an article, or collected as part of their own research, or supplied by their advisor. **Datasets must have a minimum of 10 samples and more than one variable measured for each sample, so that reasonable questions concerning multivariate data structure can be addressed.** Addressing these research questions will require applying various analyses from throughout the course, and possibly beyond the covered course material. 
-
-During Week 3, students must submit a **Project Proposal**, where they briefly describe one or more potential research projects they might persue, and where they would get the data necessary, and the questions that would be addressed. 
-
-Drafts of the term paper are due at four points during the semester:
-
-1. The first draft due, the **Introduction and Data Draft**, is expected to contain (at a minimum) the introduction, and a partial Methods section that describes the context and background of the data: where, when, and *how* was the data collected, and also describing any necessary treatments required to further analyze the data. 
-
-2. The second draft, the **Methods Draft** is expected to build off the former draft, but also describe the analytical approaches the student will apply in the Methods section. 
-
-3. The third draft due should be a relatively complete **Full Draft**, adding results, discussion and any necessary figures or tables. We will review this and give you feedback.
-
-4. The fourth is the **Final Draft**, which will be the basis for your final grade for the term paper.
-
-Each of the three interim drafts **should have** proper in-text citations and formatted references, include a file containing the current data set used for the project, regardless of whether it has been modified since the original data submission. 
-
-
-#### Project-Associated Papers
-
-Several times during the semester, you will be asked to locate peer-reviewed literature related to your research project, and give a very brief introduction of the work to the rest of the class. This will happen at least twice: first, during the first month of the course, you will be asked to locate a peer-reviewed papers (an experimental study, topical review, etc) that is relevant to your current research project ideas, perhaps pertaining to the prior work in this area and/or the importance of future work on this area. The intent is that such a paper might then be a worthwhile source to eventually cite in the introduction section of your final research paper at the end of this class. In the later third of this class, after you have begun to cement an idea of what analytical methods you want to use in your class project, I'll ask for a peer-reviewed study applies a similar methodological approach as what you are applying in your paper (and thus might again be a useful paper to publish in your final draft). Rather than submitting these papers via Canvas, I will ask you just to share a few sentences about this paper, as they may very well be useful to your fellow classmates as well.
-
-#### Expected Structure for the Term Paper
-
-The length of your final paper will depends on how much you have to say to build an efficient, compelling investigation of your question. This final paper should be formatted like a scholarly manuscript, covering the methods, and results of their project. A complete paper draft will have the following required sections:
-
- * **Abstract  (REQUIRED)** - A concise, one-paragraph summary of your study (e.g. questions, data, methods, results).
-
- * **Introduction  (REQUIRED)** - Provide scientific context for your research question and background a reader would need to understand your study system and the importance of answering your research question. State your questions clearly and introduce how you will investigate them.
- 
- * **Methods  (REQUIRED)** - A complete description of the data and analyses you use, with justifications for why you chose those specific methods. Include references that support your decisions.
-
- * **Results  (REQUIRED)** - A report of the results of your analyses, including reporting all necessary statistical values, and necessary supporting figures and tables. Interpretation of results should be minimized.
-
- * **Discussion  (REQUIRED)** - An interpretation of your results in the context of the hypothesis you set out to test with reference to the published results of other workers. Address any analytical challenges, alternative interpretations, related your findings to the work of others, implications of your results to the field, and suggestions for future work that could improve your ability to answer your research questions.
-
- * **Conclusions (OPTIONAL)** - A concise summary of the “take-home” results, interpretations, and implications of your research. Similar to the abstract, but does not restate the study’s setup.
-
- * **References  (REQUIRED)** - Choose a consistent journal format. If uncertain which to use, use Paleobiology style, as it the instructor's favorite.
-
- * **Data Appendix  (REQUIRED)** - A file or table that contains all data you used for your paper. You must submit a data appendix with the draft of your Introduction and Methods draft, but you should update this appendix as you revise or add to your data over the course.
-
-
-#### Project Presentations
-
-Early in the semester, students will take turns introducing the rest of the class to the data and questions they are planning on addressing in the term project. This presentation does not require slides or graphics (although you can use them if you want), and should be less than 5 minutes in duration. 
-
-Later, students will again present to the class their project, covering again the questions motivating the research, the nature of the dataset, and which methods they are planning to apply, or have already applied, to the dataset. Students should particularly focus on any difficulties they've encountered, or confusion they have about which methods to apply. Again, slides or graphics are not necessary, and the presentation should be kept brief, preferably under 5-8 minutes.
-
-In the last week of the course, students will be asked to prepare a more detailed presentation as an endcap to the research project for the semester. Slides, figures and any other graphic aids are recommended. Students are expect to re-introduce the rest of the class to the motivation behind their analyses, the data they used, the methods they applied and why they chose those methods, and what the results can tell us about in the context of the system. (Depending on the class size, time constraints and public health emergencies, the instructor may poll the student on whether live presentations are preferred over recorded presentations.)  
-
-For all the above presentations, students in the audience will actively participate by posing questions (for the live presentations), as well as providing written feedback about each other's presentations, which will be passsed in an anonymized form to the presenter. Giving peer feedback, particularly on the final presentation, is a component of the Project Presentation grade.
-
-
+-->
 
 <!--
  * Define a grading scale for the assignment of a letter grade (A through F) or the criteria for assigning S/U grades as appropriate.
@@ -207,19 +129,30 @@ For all the above presentations, students in the audience will actively particip
  **Grades for Stacked Course** – If the course is a stacked course that uses a single, combined syllabus for the undergraduate and graduate courses, the syllabus must clearly specify additional work required for graduate students. (See Policy for Stacked Courses.)
 
  **Grading Policy Changes** – Faculty must provide grading policies to students by the first class period. As such, faculty cannot change the course grading policy after the second class session. (See Student Rule 10.) 
+--> 
+
+<!--
+
+It may be useful to have some subsections that explain details about each type of assignment.
+
+### Some Assignments
+
+Some text that explains what the assignments are.
+
 -->
+
 
 ### Late Work Policy
 
-Late work is discouraged, but will be accepted with a penalty relative to how late the submission is, depending on the assignment and reason given for the late submission. Work submitted late due to an excused absence is not considered late work, and is exempt from the late work policy.
+Late work is ...?
 
 <!--
+
  * Indicate whether or not the faculty member will accept late work. 
+
  * Identify any associated penalty if the faculty member accepts late work for evaluation. 
 
  The late work policy should define what constitutes late work (e.g., submitting a deliverable after the established deadline). Work submitted by a student as makeup work for an excused absence is not considered late work and is exempted from the late work policy. (See Student Rule 7.)
-
-\newpage
 
 -->
 
@@ -227,39 +160,17 @@ Late work is discouraged, but will be accepted with a penalty relative to how la
 
 ### Course Schedule
 
+<!--
+
+Use a Markdown table for a calendar / course schedule you will stop fidgetting with the column widths of.
+
 |              |     |          | Lecture Topic           | Assignments 
 | ------------ | --- | -------- | ----------------------- | --------------------
 | Week 1       | Tu  | Jan  16  | SNOW DAY                |
-|              | Th  | Jan  17  | Course Introductions, Research Questions & Multivariate Data Set Structure  | 
-| Week 2       | Tu  | Jan  23  | Programming with R in RStudio  | *Install R before Class!*
-|              | Th  | Jan  25  | Loading Data Sets & Manipulating Tables in R    |  **Research Questions**
-| Week 3       | Tu  | Jan  30  | Data Transformations & Cleaning Data in R | **Proposal** 
-|              | Th  | Feb  1   | Typical Univariate Statistics: Parametric & Non-Parametric Tests  | *Loading Data*
-| Week 4       | Tu  | Feb  6   | Measuring Correlations & Fitting a Regression  | *Correlations & Regressions*
-|              | Th  | Feb  8   | Multiple & Logistic Regression in R  | **Introduction and Data Draft**
-| Week 5       | Tu  | Feb  13  | Model Selection & Step-Wise Methods with Akaike Information Criterion  | *Univariate HW*
-|              | Th  | Feb  15  | Yardsticks for Ecology: Diversity, Evenness & Richness  | 
-| Week 6       | Tu  | Feb  20  | Community Ecology Metrics in R; Rarefaction and Collector's Curves  | *Regression & Model Selection HW Due*
-|              | Th  | Feb  22  | Dissimilarity Metrics & Their Uses (ANOSIM, PERMANOVA)  | *Dissimilarity HW*
-| Week 7       | Tu  | Feb  27  | Cluster Analyses: Visualizing Dissimilarity  | 
-|              | Th  | Feb  29   | Cluster Analyses in R  | 
-| Week 8       | Tu  | Mar  5   | Understanding Principal Component Analysis (PCA) for Metric Data  | *Cluster Analysis HW* 
-|              | Th  | Mar  7   | Performing and Interpreting a PCA | **Methods Draft**
-| Spring Break | Tu  | Mar  12  | **Spring Break**  |
-|              | Th  | Mar  14  | **Spring Break**  |
-| Week 9       | Tu  | Mar  19  | PCO/MDS & NMDS in R | 
-|              | Th  | Mar  21  | Do an Ordination with your Data in Class | 
-| Week 10      | Tu  | Mar  26  | Detrended Correspondence Analysis (DCA) for Community Ecology in R  | *PCO & PCO HW*
-|              | Th  | Mar  28  | Direct Gradient Analysis in R (CCA, RDA)  | 
-| Week 11      | Tu  | Apr  2   | **Term Project Progress Presentations**  |
-|              | Th  | Apr  4   | Classification with Ordinations (LDA, CVA, DFA)  | *DCA & CCA HW*
-| Week 12      | Tu  | Apr  9  | More Classification with Ordinations | **Full Draft**
-|              | Th  | Apr  11  | CART: Classification & Regression Tree Analysis  |
-| Week 13      | Tu  | Apr  16  | CART & Random Forest in R |  *DFA HW*
-|              | Th  | Apr  18  | Troubleshooting Day | *CART HW*
-| Week 14      | Tu  | Apr  23  | **Final Presentations** |
-|              | Th  | Apr  25  | **Final Presentations** | 	
-<!--
+|              | Th  | Jan  17  | Course Introductions    | 
+| Week 2       | Tu  | Jan  23  | A Lecture               |
+
+
  * Include a list of topics, calendar of activities, major assignment dates, and exam dates. 
 
  The course schedule must include lab hours in the calendar of activities. The course schedule must include dates of major exams and assignments. Dates for exams and assignments should not be changed without written notification to all students in the course (notice via email or learning management system is acceptable). 
@@ -272,6 +183,10 @@ Late work is discouraged, but will be accepted with a penalty relative to how la
 
 
 ### Optional Course Information Items: Student Resources
+
+<!--
+The information below is optional and you can include them or not.
+-->
 
 * **Are You Having an Emergency?** – A variety of student resources focused on health and safety are available to you as a student at Texas A&M. [Student Life](https://studentlife.tamu.edu) provides a number of services, such as free legal services to students on non-university matters, emergency food resources, off campus student services, support for pregnant and parenting students, access to short-term relief pantries and support for former foster and adopted domestic students. [Student Counseling and Mental Health](https://uhs.tamu.edu/mental-health/index.html), part of University Health Services (UHS)  can provide short-term counseling services and help coordinate long-term help at off-campus providers. 
 
