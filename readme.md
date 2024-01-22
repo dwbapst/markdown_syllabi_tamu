@@ -77,7 +77,7 @@ Because commented text is ignored, you can delete these lines, leave them be, or
 
 ## YAML Headers
 
-The end of the syllabus header has a block which we call a YAML header. YAML, a recursive acronym short for 'YAML Ain't Markup Language', a *different* language from Markdown, mainly used for describing how data and text should be structured and developed as an alternative for XML. In Markdown documents, a 'YAML header' is a YAML formatted section which indicates information like title, author, and layout instructions usually 
+The end of the syllabus has a block which we call a 'YAML header'. YAML, a recursive acronym short for 'YAML Ain't Markup Language', a *different* language from Markdown, mainly used for describing how data and text should be structured and developed as an alternative for XML. In Markdown documents, such 'YAML headers' are a YAML-formatted section which indicates information like title, author, layout instructions, etc. Formatting instructions that only matter to specific formatters 
 
 
 is a section at the top enclosed by '---' lines, storing metadata like title or layout. This header helps in organizing content, setting parameters for processing the document, and is especially handy in static site generators where it can control page elements like navigation or appearance. 
