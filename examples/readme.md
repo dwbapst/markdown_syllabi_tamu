@@ -1,0 +1,1 @@
+This directory contains several examples of using the syllabus template for an undergraduate and a graduate class, and examples of what the output looks like (in several different formats) are stored in a subdirectory.
