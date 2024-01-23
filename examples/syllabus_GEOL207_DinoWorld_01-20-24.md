@@ -240,21 +240,21 @@ The late work policy should define what constitutes late work (e.g., submitting 
 |              |             | Thyreopheans: Armored Ankylosaurs and Stegosaurs  | 
 |              |             |                                                   | 
 |              |             | *The Tail and Key Trace Fossils*                  | 
-|              |             | Lab 6: Excavation Stage II, Caudal Region         |   
+|              |             | Lab 6: Excavation Stage 2, Caudal Region         |   
 |              |             | **Natural Selection Essay Due**                    |
 |              |             |                                                    |    
 | Week 7       | Feb  26 -   | Ornithopods                                         |  
 |              |    Mar  1   | Marginocephalids: Ceratopsians & Pachycephalosaurs  | 
 |              |             |                                                     | 
 |              |             | *Vertebrae Mini-Assignment*                         |
-|              |             | Lab 7: Excavation Stage 2, Spine Vertebrae          |
+|              |             | Lab 7: Excavation Stage 3, Spine Vertebrae          |
 |              |             |                                                     |  
 | Week 8       | Mar  4-8    | Theropods                                           | 
 |              |             | Dinosaur Take to the Skies                          |  
 |              |             | Pterosaurs - Sisters to the Dinosaurs               |  
 |              |             |                                                     | 
 |              |             | *Skull Mini-Assignment*                             | 
-|              |             | Lab 8: Excavation Stage 3, Skull and Forelimb       |    
+|              |             | Lab 8: Excavation Stage 4, Skull and Forelimb       |    
 |              |             | **Excavation Teams Based on Lab 7 Submission**      |
 |              |             |                                                     |     
 |              | Mar  11-15  | SPRING BREAK                                        |
