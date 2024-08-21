@@ -3,34 +3,39 @@
 <!-- 
 See the readme for the syllabus template repository for instructions on using the following read-me template.
 
-This template last update 01/20/24 by David W Bapst.
+This template last updated 08/17/24 by David W Bapst.
+
+# converting to PDF
+pandoc test.md -o test.pdf 
+
+# converting to HTML
+pandoc test.md -o test.html
+
 -->
 
 ## Course Information
 
-Course Number: GEOL 207
+**Course Number:** GEOL 207
 
-Course Title:  Dinosaur World
+**Course Title:**  Dinosaur World
 
-Time:          Asynchronous
+**Time:**          Asynchronous
 
-Location:      Online
+**Location:**      Online
 
-Credit Hours:  3 CR
+**Credit Hours:**  3 CR
 
 ### Instructor Details
 
-Name:          David Bapst
+**Name:**          David Bapst
 
-Office:        Halbouty 169
+**Office:**        Halbouty 169
 
-Email:         <dwbapst@tamu.edu>
+**Email:**         <dwbapst@tamu.edu>
 
-Office Hours:  
- 
- - Tues/Thurs:  9:30-10:30 AM, 3:40-4:30 PM  
+**Office Hours:**  Mon/Wed:  11:10 AM - 12:10 PM; Fri: 2:00 PM -  3:00 PM
 
-Office Hours are held in-person in my office, as well as online -- please send me an email or a message via the Canvas Learning Management System so I can send you a Zoom link. If these times do not work for you, then please contact me and we will work out alternative times for use to chat.
+Office Hours are held in-person in my office, as well as online -- please send me an email or a message via the Canvas Learning Management System so I can send you a Zoom link. If these times do not work for you, then please contact me and we will work out alternative times for use to meet.
 
 <!--
 
@@ -139,7 +144,9 @@ Your final letter grade will be based on the final percentage grade for the cour
 | **D**  | 60-69.99%
 | **F**  | Less than 60%
 
+<!--
 \newpage
+-->
 
 Your final percentage for the course will be based on:
 
@@ -148,30 +155,41 @@ Your final percentage for the course will be based on:
 | Lecture Mini-Assignments & Associated Quizzes       | 15%
 | Online Lab Assignments & Associated Quizzes         | 30%
 | Major Assignment: Natural Selection Essay           | 15%
-| Major Assignment: Excavation Team Report            | 20%
-| Major Assginment: Dinosaurs in the Media Team Video | 20%
+| Major Assignment: Sauropod Phylogeny                |  5%
+| Major Assignment: Excavation Team Report            | 15%
+| Major Assginment: Dinosaurs in the Media Team Video | 15%
+} Group Logistics & Evaluation                        |  5%
 
 Grades in this class will be based on the total grades of each of the component areas listed in the table above, with the percentage of your final grade determined by a component area as indicated.
 
-### Lecture Mini-Assignments & Associated Quizzes 
+#### Lecture Mini-Assignments & Associated Quizzes 
 
 In most weeks, there is a short assignment associated with the lecture content of the course. These assignments help build skills necessary for completing the laboratory  assignments and reinforce key concepts covered in the lecture videos. In some cases, these assignments will require reading portions of the textbook. Quizzes that accompany these assignments serve to let you check your answers before submitting the assignment. You will have two attempts at the quiz and you highest quiz score will count. These assignments are often prerequisites to accessing that week’s laboratory.
 
-### Online Lab Assignments & Associated Quizzes 
+#### Online Lab Assignments & Associated Quizzes 
 
 In most weeks, there are laboratory assignments posted to Canvas that are due by the following week. To access these assignments, you will need to complete the related lecture material and may also be required to submit the previous week’s laboratory assignment in some cases. Quizzes that accompany the laboratory assignments serve to let you check your answers before submitting the assignment. You will have two attempts at the quiz and you highest quiz score will count. These online laboratory assignments develop the use of quantitative data and measurements in testing hypotheses, visualizing patterns in data, and drawing synthetic conclusions. Thus, these lab exercises fulfill the visual communication, critical thinking, and quantitative analysis requirements of the core curriculum
 
-### Major Assignment: Natural Selection Essay 
+#### Major Assignment: Natural Selection Essay 
 
 To develop your written communication skills and apply the concept of natural selection to the evolution of the dinosaurs, you will write a short essay. A rubric will be used to grade this assignment and is provided on Canvas with a full description of the assignment. This fulfills the written communication requirement of the core curriculum.
 
-### Major Assignment: Excavation Team Report
+#### Major Assignment: Sauropod Phylogeny
+
+The sauropod phylogeny assignment is an in-depth exploration of how scientists revise our hypotheses of evolutionary relationships, often portrayed as trees, and how scientists use those phylogenies to make inferences about the evolution and ecology of sauropod dinosaurs.
+
+#### Major Assignment: Excavation Team Report
 
 After completing the four laboratory assignments associated with the excavation project, you will work with a team to arrive at a consensus regarding the identification of the organism(s), the paleoenvironment of the site, and paleoecology of the organisms.Together, the team will write a single consensus report. A rubric will be used to grade this assignment as is provided on Canvas with a full description of the assignment. This project fulfills the written communication requirements of the core curriculum, as well as the critical thinking, empirical analysis, and teamwork requirements.
 
-### Major Assginment: Dinosaurs in the Media Team Video
+#### Major Assginment: Dinosaurs in the Media Team Video
 
 For the final major project, you will work with your team to examine an example of how dinosaurs are depicted in the media and compare that to our modern idea of what dinosaurs are like and your knowledge from this class. The project will culminate in a scripted video presentation by your group. A rubric will be used to grade this assignment and is provided on Canvas with a full description of the assignment. This project fulfills the oral communication requirements of the core curriculum, as well as the critical thinking, empirical analysis and teamwork requirements.
+
+#### Group Logistics & Evaluation
+
+Two of the major assignments require doing group work. Both require each individual group member to submit a quiz shortly after groups are assembled, describing when the group will meet and which members will be responsible for what tasks. After the major assignments are submitted, students will be asked to submit group evaluations, which will be used to assess how well members contributed to each group's efforts.
+
 
 <!--
 * Define a grading scale for the assignment of a letter grade (A through F) or the criteria for assigning S/U grades as appropriate.
@@ -203,94 +221,117 @@ The late work policy should define what constitutes late work (e.g., submitting 
 
 ### Course Schedule
 
-|              |             | Lecture Topic / *Mini-Assignments* / **Major Assignments**  | 
-| ------------ | ----------- | ----------------------------------------------------------- | 
-| Week 1       | Jan  16-19  | Welcome to the World of Dinosaurs                           | 
-|              |             | From Death to Fosilization to Discovery                     | 
-|              |             |                                                             |
-|              |             | *Bone Detectives Mini-Assignment*                           | 
-|              |             | Lab 1: Fossil Preservation & Sedimentary Environments     |  
-|              |             |                                                |   
-| Week 2       | Jan  22-26  | Time in Geology                                | 
-|              |             | Continents and Biogeography                    |
-|              |             |                                                |
-|              |             | *Telling Time* and *Distribution of Fossils*   | 
-|              |             | Lab 2: Fossils in Time and Space               |
-|              |             |                                                | 
-| Week 3       | Jan  29 -   | Natural Selection and Genes                    | 
-|              |   Feb  2    | Getting Started with Phylogeny                 | 
-|              |             |                                                |
-|              |             | *Graphing Natural Selection*                   |   
-|              |             | Lab 3: Natural Selection                       |
-|              |             | **Natural Selection Essay Assigned**           |  
-|              |             |                                                |   
-| Week 4       | Feb  5-9    | Phylogenies and the Dinosaur Tree               | 
-|              |             | Diversity and Convergence in Form               | 
-|              |             |                                                 | 
-|              |             | *Sauropod Phylogeny*                            | 
-|              |             | Lab 4: Reconstructing Evolutionary Trees        |
-|              |             |                                                 | 
-| Week 5       | Feb  12-16  | Evolution of Vertebrates and Beyond             | 
-|              |             | Archosaurs and the Earliest Dinosaurs           | 
-|              |             |                                                  | 
-|              |             | *Pelvic Anatomy Mini-Assignment*                 |     
-|              |             | Lab 5: Excavation Stage 1, Pelvis and Hind-Limb  |  
-|              |             |                                                   |     
-| Week 6       | Feb  19-23  | The Eusauropoda: Long Necks and Big Bodies        |  
-|              |             | Thyreopheans: Armored Ankylosaurs and Stegosaurs  | 
-|              |             |                                                   | 
-|              |             | *The Tail and Key Trace Fossils*                  | 
-|              |             | Lab 6: Excavation Stage 2, Caudal Region         |   
-|              |             | **Natural Selection Essay Due**                    |
-|              |             |                                                    |    
-| Week 7       | Feb  26 -   | Ornithopods                                         |  
-|              |    Mar  1   | Marginocephalids: Ceratopsians & Pachycephalosaurs  | 
-|              |             |                                                     | 
-|              |             | *Vertebrae Mini-Assignment*                         |
-|              |             | Lab 7: Excavation Stage 3, Spine Vertebrae          |
-|              |             |                                                     |  
-| Week 8       | Mar  4-8    | Theropods                                           | 
-|              |             | Dinosaur Take to the Skies                          |  
-|              |             | Pterosaurs - Sisters to the Dinosaurs               |  
-|              |             |                                                     | 
-|              |             | *Skull Mini-Assignment*                             | 
-|              |             | Lab 8: Excavation Stage 4, Skull and Forelimb       |    
-|              |             | **Excavation Teams Based on Lab 7 Submission**      |
-|              |             |                                                     |     
-|              | Mar  11-15  | SPRING BREAK                                        |
-|              |             |                                                      |  
-| Week 9       | Mar  18-22  | The Dinosaur World: Climate, Ecology and Ecosystems  |
-|              |             |                                                      |  
-|              |             | **Excavation Report Assigned**                      |  
-|              |             | **Group Logistics Quiz Due  **                      |
-|              |             |                                                    |  
-| Week 10      | Mar  25-29  | Dinosaur Behaviors                                 | 
-|              |             | Growth and Reproduction of Dinosaurs              | 
-|              |             |                                                   | 
-|              |             | Lab 9: Skeletal Growth                            | 
-|              |             |                                                   | 
-| Week 11      | Apr  1-5    | Trackways and Locomotion                          |
-|              |             | Metabolism                                        |  
-|              |             |                                                   | 
-|              |             | Lab 10: Size and Speed                            | 
-|              |             | **Excavation Team Reports Due**                   |
-|              |             | **Dinosaurs in the Media Video Project Assigned** |
-|              |             |                                                   | 
-| Week 12      | Apr  8-12   | Public Perception of Dinosaur                     |
-|              |             |                                                   |  
-|              |             | **Work With Your Dinosaurs in the Media Team!**   |  
-|              |             |                                                   | 
-| Week 13      | Apr  15-19  | End-Cretaceous Mass Extinction                    | 
-|              |             | Marine Mesozoic Reptiles                          | 
-|              |             |                                                   | 
-| Weeks        | Apr  22-26  | Birds: Dinosaurs Still Rule in the Cenozoic       | 
-| 14 - 15      | Apr  29-30  | Wrap-Up                                           | 
-|              |             |                                                   | 
-|              |             | **Dinosaurs in the Media Video Due**              | 
+|              |             | Lecture Topic / *Labs & Mini-Assignments* / **Major Assignments** | 
+| ------------ | ----------- | ----------------------------------------------------------------- | 
+| Week 1       | Aug  19-23  | Welcome to the World of Dinosaurs                                 | 
+|              |             | From Death to Fosilization to Discovery                           | 
+|              |             |                                                                   |  
+|              |             |                                                                   |   
+| Week 2       | Aug  26-30  | Time in Geology                                                   | 
+|              |             | Continents and Biogeography                                       | 
+|              |             |                                                                   | 
+|              |             | *Due: Bone Detectives Mini-Assignment*                            | 
+|              |             | *Due: Lab 1 - Fossil Preservation & Sedimentary Environments*     |   
+|              |             | *Due: Lab Post-Activity Check*                                    |
+|              |             |                                                                   | 
+| Week 3       | Sept 2-6    | Natural Selection and Genes                                       | 
+|              |             | Getting Started with Phylogeny                                    | 
+|              |             |                                                                   | 
+|              |             | *Due: Telling Time*                                               | 
+|              |             | *Due: Distribution of Fossils*                                    | 
+|              |             | *Due: Lab 2 - Fossils in Time and Space*                          |   
+|              |             | *Due: Lab Post-Activity Check*                                    |  
+|              |             | **Natural Selection Essay Assigned**                              |  
+|              |             |                                                                   |   
+| Week 4       | Sept 9-13   | Phylogenies and the Dinosaur Tree                                 | 
+|              |             | Diversity and Convergence in Form                                 | 
+|              |             |                                                                   | 
+|              |             | *Due: Graphing Natural Selection Mini-Assignment*                 |   
+|              |             | *Due: Lab 3 - Natural Selection*                                  |   
+|              |             | *Due: Lab Post-Activity Check*                                    | 
+|              |             |                                                                   | 
+| Week 5       | Sept 16-20  | Evolution of Vertebrates and Beyond                               | 
+|              |             | Archosaurs and the Earliest Dinosaurs                             | 
+|              |             |                                                                   | 
+|              |             | *Due: Lab 4 - Reconstructing Evolutionary Trees*                  |   
+|              |             | *Due: Lab Post-Activity Check*                                    |   
+|              |             |                                                                   |     
+| Week 6       | Sept 23-28  | The Eusauropoda: Long Necks and Big Bodies                        |  
+|              |             | Thyreopheans: Armored Ankylosaurs and Stegosaurs                  | 
+|              |             |                                                                   | 
+|              |             | *Due: Anatomy Mini-Assignment - The Pelvis*                       | 
+|              |             | **Due: Natural Selection Essay**                                  |  
+|              |             |                                                                   |    
+| Week 7       | Sept  30 -  | Ornithopods                                                       |  
+|              |    Oct  4   | Marginocephalids: Ceratopsians & Pachycephalosaurs                | 
+|              |             |                                                                   |  
+|              |             | **Due: Sauropod Phylogeny Assignment**                            |  
+|              |             | *Due: Anatomy Mini-Assignment - The Tail and Key Trace Fossils*   |
+|              |             | *Due: Lab 5: Excavation Stage 1, Pelvis and Hind-Limb*            |   
+|              |             | *Due: Lab Post-Activity Check*                                    | 
+|              |             | **Excavation Teams Based on Lab 5 Submission Time**               | 
+|              |             | **Excavation Report Assigned**                                    | 
+|              |             |                                                                   |   
+| Week 8       | Oct  7-11   | FALL BREAK ( Oct 7-8 )                                            | 
+|              |             | Theropods                                                         |  
+|              |             |                                                                   | 
+|              |             | *Due: Theropod Groups Mini-Assignment*                            |  
+|              |             | *Due: Anatomy Mini-Assignment - The Vertebrae*                    |   
+|              |             |                                                                   |  
+| Week 9       | Oct  14-18  | Dinosaur Take to the Skies                                        |  
+|              |             | Pterosaurs - Sisters to the Dinosaurs                             | 
+|              |             |                                                                   | 
+|              |             | *Due: Anatomy Mini-Assignment - The Skull*                        | 
+|              |             | *Due: Lab 6: Excavation Stage 2, Caudal Region*                   |   
+|              |             | *Due: Lab Post-Activity Check*                                    | 
+|              |             | **Due: Group Logistics Quiz**                                     | 
+|              |             |                                                                   |  
+| Week 10      | Oct  21-25  | The Dinosaur World: Climate, Ecology and Ecosystems               | 
+|              |             |                                                                   |  
+|              |             | *Due: Diversity & Climate Mini-Assignment*                        |  
+|              |             | *Due: Lab 7: Excavation Stage 3, Spine Vertebrae*                 |   
+|              |             | *Due: Lab Post-Activity Check*                                    |    
+|              |             |                                                                   | 
+| Week 11      | Oct  28 -   | Dinosaur Behaviors                                                | 
+|              |    Nov 1    | Growth and Reproduction of Dinosaurs                              |
+|              |             |                                                                   |   
+|              |             | *Due: Growth & Behavior Mini-Assignment*                          | 
+|              |             | *Due: Lab 8: Excavation Stage 4, Skull and Forelimb*              |   
+|              |             | *Due: Lab Post-Activity Check*                                    | 
+|              |             |                                                                   | 
+| Week 12      | Nov  4-8    | Trackways and Locomotion                                          |  
+|              |             | Metabolism                                                        | 
+|              |             |                                                                   |  
+|              |             | **Due: Excavation Team Reports**                                  |  
+|              |             | *Due: Measuring Dinosaurs Mini-Assignment*                        | 
+|              |             |                                                                   | 
+| Week 13      | Nov  11-15  | Public Perception of Dinosaur                                     | 
+|              |             | Marine Mesozoic Reptiles                                          | 
+|              |             |                                                                   |  
+|              |             | **Dinosaurs in the Media Video Project Assigned**                 | 
+|              |             | *Due: Jurassic World Mosasaur Mini-Assignment*                    |  
+|              |             | *Due: Lab 9: Size and Speed*                                      |   
+|              |             | *Due: Lab Post-Activity Check*                                    | 
+|              |             |                                                                   |     
+| Week 14      | Nov  18-22  | End-Cretaceous Mass Extinction                                    | 
+|              |             |                                                                   |  
+|              |             | *Due: Extinction Mini-Assignment*                                 |  
+|              |             | **Work With Your Dinosaurs in the Media Team!**                   | 
+|              |             |                                                                   | 
+| Week 15+     | Nov  25-29  | Birds: Dinosaurs Still Rule                                       | 
+|              |             | Thanksgiving (Nov 27-29)                                          | 
+|              |             | *Due: Birds Mini-Assignment*                                      | 
+|              | Dec  2nd    | **Due: Dinosaurs in the Media Team Video**                        | 
+|              |             | **Due: Personal Reflection Video**                                | 
+|              |             |                                                                   |     
 
 In general, please refer to Canvas for the most up-to-date due-date information.
 
 <!--
+
+|              |             |                                                             | 
+|              |             | Lab 9: Skeletal Growth                                      | 
+
  * Include a list of topics, calendar of activities, major assignment dates, and exam dates. 
 
  The course schedule must include lab hours in the calendar of activities. The course schedule must include dates of major exams and assignments. Dates for exams and assignments should not be changed without written notification to all students in the course (notice via email or learning management system is acceptable). 
@@ -304,18 +345,21 @@ In general, please refer to Canvas for the most up-to-date due-date information.
 
 ### Optional Course Information Items: Student Resources
 
-* **Are You Having an Emergency?** – A variety of student resources focused on health and safety are available to you as a student at Texas A&M. [Student Life](https://studentlife.tamu.edu) provides a number of services, such as free legal services to students on non-university matters, emergency food resources, off campus student services, support for pregnant and parenting students, access to short-term relief pantries and support for former foster and adopted domestic students. [Student Counseling and Mental Health](https://uhs.tamu.edu/mental-health/index.html), part of University Health Services (UHS)  can provide short-term counseling services and help coordinate long-term help at off-campus providers. 
+* **Are You Having an Emergency?** – A variety of student resources focused on health and safety are available to you as a student at Texas A&M. [Student Life](https://studentlife.tamu.edu) provides a number of services, such as free legal services to students on non-university matters, emergency food resources, off campus student services, support for pregnant and parenting students, access to short-term relief pantries and support for former foster and adopted domestic students. The Student Life offices can be reached by emailing studentlife@tamu.edu or calling 979-845-3111. [Student Assistance Services (SAS)](https://studentlife.tamu.edu/sas/), a program within Student Life, provides case management supporting any Aggie who experiences a crisis or exhibits concerning behaviors. Case managers work with students directly to create action plans and navigate resources specific to their individual needs. Engage with Student Assistance Services using the [online contact form](https://studentlife.tamu.edu/contact/) or by calling 979-845-3113. [Student Counseling and Mental Health](https://uhs.tamu.edu/mental-health/index.html), part of University Health Services (UHS)  can provide short-term counseling services and help coordinate long-term help at off-campus providers.
 
-* **Prolonged Absences** - [Student Assistance Services (SAS)](https://studentlife.tamu.edu/sas/) can serve as a liaison for students in critical and/or life-altering situations where students are unable to communicate with their instructors. Student Absence Notifications are intended to serve as a central point of contact for students who need to notify their instructors when an absence is due to an emergency and requires missing class for an extended period of time (more than three class days). [See more here.](https://studentlife.tamu.edu/sas/resources/student-absence/) In addition to SAS, students should use the [Title IX office](https://titleix.tamu.edu/) as the first point of contact for any incident involving domestic abuse, sexual harassment, or students dealing with issues related to their sexuality, reproductive health or sexual health. Absences related to such issues should be coordinated through the Title IX office. Finally, if absences are related to long-term health issues or disabilities that are registered through [Disability Resources](https://disability.tamu.edu/), absences or the inability to participate in class should be discussed with the Disability Resources office. Title IX and Disability Resources have the ability to notify your instructors and provide rationale for excused absences when the situation warrants it. 
+* **Tell Somebody!** - In many of these emergent situations where an Aggie is experiencing a crisis or concerning behaviors, including medical or family that may result in prolonged absence, it is important to inform the university. This is especially true for mental health issues that might fall under SAS/UHS. Reporting to the university can be done via [the Tell Somebody webform](https://tellsomebody.tamu.edu/). These reports are reviewed by a team of professionals who proactively follow up with students to share resources and support that may help them through any challenge or concern they are experiencing. 
 
-* **Tell Somebody!** - In many of these emergent situations, whether these are cases require prolonged absences or not, it is important to inform the university about situations involving many of the above scenarios, including mental health issues that might fall under SAS/UHS, and can be reported to the university via [the Tell Somebody webform](https://tellsomebody.tamu.edu/). 
+* **Prolonged Absences** - [Student Assistance Services (SAS)](https://studentlife.tamu.edu/sas/) can serve as a liaison for students in critical and/or life-altering situations where students are unable to communicate with their instructors. Student Absence Notifications are intended to serve as a central point of contact for students who need to notify their instructors when an absence is due to an emergency and requires missing class for an extended period of time (more than three class days). [See more here.](https://studentlife.tamu.edu/sas/resources/student-absence/) In addition to SAS, students should use the [Title IX office](https://titleix.tamu.edu/) as the first point of contact for any incident involving domestic abuse, sexual harassment, or students dealing with issues related to their sexuality, reproductive health or sexual health. The Title IX Office assists students with accommodations for pregnancy or related conditions. Examples of accommodations could include excused absences, a leave of absence, extensions of time to complete assignments, or other classroom adjustments. Absences related to such issues should be coordinated through the Title IX office. The Title IX office is located in the YMCA, in Suite 108, and can be reached at 979-438-8407, or emailed at [civilrights@tamu.edu](civilrights@tamu.edu). Pregnancy and parenting initiatives and resources can be found at studentlife.tamu.edu/wss/pregnant-parenting/. Finally, if absences are related to long-term health issues or disabilities that are registered through [Disability Resources](https://disability.tamu.edu/), absences or the inability to participate in class should be discussed with the Disability Resources office. Title IX and Disability Resources have the ability to notify your instructors and provide rationale for excused absences when the situation warrants it. 
 
-* **Writing Support** – The [University Writing Center (UWC)](http://writingcenter.tamu.edu/) has trained peer consultants available to work with you on any kind of writing or speaking project, including research papers, lab reports, application essays, or creative writing, and at any stage of your process, whether you're deciding on a topic or reviewing your final draft. You can also get help with public speaking, presentations, and group projects. We can work with you in person at our Evans or BLCC locations or via Zoom or email. To schedule an appointment or to view our handouts, videos, or interactive learning modules, visit [writingcenter.tamu.edu](writingcenter.tamu.edu). If you have questions, need help making an appointment, or encounter difficulty accessing our services, call 979-458-1455 or [email us](uwc@tamu.edu).
+* **Student Services for Distance Education Students** - Texas A&M University offers a variety of student services to on-campus and online students.  For more information for students in distance education, please go to:  <https://distance.tamu.edu/Student-Services>.
 
 * **Technology Support** – For issues with University technological infrastructure, like the campus wifi or using the Canvas Learning Management System, you should contact [TAMU IT Help Desk Central](https://it.tamu.edu/help/) via email, virtual chat, phone, etc.
 
+* **Writing Support** – The [University Writing Center (UWC)](http://writingcenter.tamu.edu/) has trained peer consultants available to work with you on any kind of writing or speaking project, including research papers, lab reports, application essays, or creative writing, and at any stage of your process, whether you're deciding on a topic or reviewing your final draft. You can also get help with public speaking, presentations, and group projects. We can work with you in person at our Evans or BLCC locations or via Zoom or email. To schedule an appointment or to view our handouts, videos, or interactive learning modules, visit [writingcenter.tamu.edu](writingcenter.tamu.edu). If you have questions, need help making an appointment, or encounter difficulty accessing our services, call 979-458-1455 or [email us](uwc@tamu.edu).
+
 * **Other Commonly Needed Student Resources** - Additional commonly utilized student services related to Admissions, the Registrar, Financial Aid, Student Business Services, Veteran Services and many others can be contacted via the [Aggie One Stop service](https://aggieonestop.tamu.edu/). Individual services you may need access to may include [Scholarships and Financial Aid](https://eccb.tamu.edu/scholarships-and-financial-aid/), [Student Billing Services](https://sbs.tamu.edu/), [Employment](https://www.tamu.edu/about/employment.html), [Academic Success](https://asc.tamu.edu/), [Involvement and Engagement](https://studentaffairs.tamu.edu/involvement-engagement/), [Leadership and Service](https://studentactivities.tamu.edu/), [Student Housing](https://reslife.tamu.edu/), and [Graduate Student Health Insurance](https://tamu.myahpcare.com/). Links to an even broader list of student resources, many of which are university-wide, can be found on the ECCB program's [Student Resources page](https://eccb.tamu.edu/student-resources/).
 
+* **Early Registration for Parenting Students** - If you are a parenting student meaning a student enrolled at an institution of higher education who is the parent or legal guardian of a child under 18 years of age, then you are eligible for early registration.  Parenting students may self-certify as a parent or legal guardian for early registration at [the Student Life parenting students webpage](https://studentlife.tamu.edu/support/rightsandresources/). Some graduate and professional programs are not included.
 
 <!--
 # Consider adding the following additional information items to the course syllabus when appropriate. 
@@ -408,79 +452,6 @@ Students needing a listening ear can contact University Health Services (979.458
 
 
 ## Campus Specific Policies 
-
-### Optional Course Information Items: Student Resources
-
-* **Are You Having an Emergency?** – A variety of student resources focused on health and safety are available to you as a student at Texas A&M. [Student Life](https://studentlife.tamu.edu) provides a number of services, such as free legal services to students on non-university matters, emergency food resources, off campus student services, support for pregnant and parenting students, access to short-term relief pantries and support for former foster and adopted domestic students. [Student Counseling and Mental Health](https://uhs.tamu.edu/mental-health/index.html), part of University Health Services (UHS)  can provide short-term counseling services and help coordinate long-term help at off-campus providers. 
-
-* **Prolonged Absences** - [Student Assistance Services (SAS)](https://studentlife.tamu.edu/sas/) can serve as a liaison for students in critical and/or life-altering situations where students are unable to communicate with their instructors. Student Absence Notifications are intended to serve as a central point of contact for students who need to notify their instructors when an absence is due to an emergency and requires missing class for an extended period of time (more than three class days). [See more here.](https://studentlife.tamu.edu/sas/resources/student-absence/) In addition to SAS, students should use the [Title IX office](https://titleix.tamu.edu/) as the first point of contact for any incident involving domestic abuse, sexual harassment, or students dealing with issues related to their sexuality, reproductive health or sexual health. Absences related to such issues should be coordinated through the Title IX office. Finally, if absences are related to long-term health issues or disabilities that are registered through [Disability Resources](https://disability.tamu.edu/), absences or the inability to participate in class should be discussed with the Disability Resources office. Title IX and Disability Resources have the ability to notify your instructors and provide rationale for excused absences when the situation warrants it. 
-
-* **Tell Somebody!** - In many of these emergent situations, whether these are cases require prolonged absences or not, it is important to inform the university about situations involving many of the above scenarios, including mental health issues that might fall under SAS/UHS, and can be reported to the university via [the Tell Somebody webform](https://tellsomebody.tamu.edu/). 
-
-* **Writing Support** – The [University Writing Center (UWC)](http://writingcenter.tamu.edu/) has trained peer consultants available to work with you on any kind of writing or speaking project, including research papers, lab reports, application essays, or creative writing, and at any stage of your process, whether you're deciding on a topic or reviewing your final draft. You can also get help with public speaking, presentations, and group projects. We can work with you in person at our Evans or BLCC locations or via Zoom or email. To schedule an appointment or to view our handouts, videos, or interactive learning modules, visit [writingcenter.tamu.edu](writingcenter.tamu.edu). If you have questions, need help making an appointment, or encounter difficulty accessing our services, call 979-458-1455 or [email us](uwc@tamu.edu).
-
-* **Technology Support** – For issues with University technological infrastructure, like the campus wifi or using the Canvas Learning Management System, you should contact [TAMU IT Help Desk Central](https://it.tamu.edu/help/) via email, virtual chat, phone, etc.
-
-* **Other Commonly Needed Student Resources** - Additional commonly utilized student services related to Admissions, the Registrar, Financial Aid, Student Business Services, Veteran Services and many others can be contacted via the [Aggie One Stop service](https://aggieonestop.tamu.edu/). Individual services you may need access to may include [Scholarships and Financial Aid](https://eccb.tamu.edu/scholarships-and-financial-aid/), [Student Billing Services](https://sbs.tamu.edu/), [Employment](https://www.tamu.edu/about/employment.html), [Academic Success](https://asc.tamu.edu/), [Involvement and Engagement](https://studentaffairs.tamu.edu/involvement-engagement/), [Leadership and Service](https://studentactivities.tamu.edu/), [Student Housing](https://reslife.tamu.edu/), and [Graduate Student Health Insurance](https://tamu.myahpcare.com/). Links to an even broader list of student resources, many of which are university-wide, can be found on the ECCB program's [Student Resources page](https://eccb.tamu.edu/student-resources/).
-
-
-<!--
-# Consider adding the following additional information items to the course syllabus when appropriate. 
-
-# * **Technology Support** – Provide appropriate technical support information to inform students who to contact if they encounter technical difficulties (e.g., direct technical questions to the course teaching assistant; contact the vendor; etc.). Technical support information should include information such as who to contact, how to contact that resource, hours of availability, etc. 
-
- * **Learning Resources** – Provide information regarding available learning resources such as supplemental instruction or tutoring when appropriate (e.g., information about the University Writing Center for a W/C designated course or related LinkedIn Learning modules appropriate for the course topic). The Study Hub website lists many on-campus learning resources to support students in achieving academic excellence.
--->
-
-## University Policies
-
-<!--
-# This section outlines the university level policies that must be included in each course syllabus. The TAMU Faculty Senate established the wording of these policies. 
-
-# NOTE: Faculty members should not change the written statements. A faculty member may add separate paragraphs if additional information is needed. 
--->
-
-### Attendance Policy
-
-The university views class attendance and participation as an individual student responsibility. Students are expected to attend class and to complete all assignments. 
-
-Please refer to [Student Rule 7](https://student-rules.tamu.edu/rule07/) in its entirety for information about excused absences, including definitions, and related documentation and timelines.
-
-### Makeup Work Policy
-
-Students will be excused from attending class on the day of a graded activity or when attendance contributes to a student’s grade, for the reasons stated in [Student Rule 7](https://student-rules.tamu.edu/rule07/), or other reason deemed appropriate by the instructor. 
-
-Please refer to [Student Rule 7](https://student-rules.tamu.edu/rule07/) in its entirety for information about makeup work, including definitions, and related documentation and timelines.
-
-"Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the student and instructor” ([Student Rule 7](https://student-rules.tamu.edu/rule07/), Section 7.4.1).
-
-"The instructor is under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence” ([Student Rule 7](https://student-rules.tamu.edu/rule07/), Section 7.4.2).
-
-Students who request an excused absence are expected to uphold the Aggie Honor Code and Student Conduct Code. (See [Student Rule 24](https://student-rules.tamu.edu/rule24/).)
-
-### Academic Integrity Statement and Policy
-
-> ***“An Aggie does not lie, cheat or steal, or tolerate those who do.”***
-
-*“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case”* (Section 20.1.2.3, [Student Rule 20](https://aggiehonor.tamu.edu/Rules-and-Procedures/Rules/Honor-System-Rules)).
-
-You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at [aggiehonor.tamu.edu](https://aggiehonor.tamu.edu/).
-
-<!--
-# NOTE: Faculty associated with the main campus in College Station should use this Academic Integrity Statement and Policy. Faculty not on the main campus should use the appropriate language and location at their site.
--->
-
-### Americans with Disabilities Act (ADA) Policy
-
-Texas A&M University is committed to providing equitable access to learning opportunities for all students. If you experience barriers to your education due to a disability or think you may have a disability, please contact the Disability Resources office on your campus (resources listed below) Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their disability related needs with Disability Resources and their instructors as soon as possible.
-
-Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit [disability.tamu.edu](https://disability.tamu.edu/).
-
-<!--
-# NOTE: Faculty associated with the main campus in College Station should use this Title IX and Statement on Limits of Liability. Faculty not on the main campus should use the appropriate language and location at their site.
--->
-
-## Campus Policies
 
 ### Statement on the Family Educational Rights and Privacy Act (FERPA)
 
